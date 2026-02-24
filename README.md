@@ -21,3 +21,7 @@ Fragmented data sources
 Lack of AI-driven automation
 
 This repository provides reusable workflow templates solving those problems using n8n as the orchestration layer.
+
+
+## Install n8n
+npm install n8n -g
